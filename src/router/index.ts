@@ -3,7 +3,7 @@ import HomeView from '../views/HomeView.vue';
 import GameView from '../views/GameView.vue';
 
 const router = createRouter({
-  history: createWebHistory(),
+  history: createWebHistory('/lol-guesser/'),
   routes: [
     {
       path: '/',

@@ -2,7 +2,7 @@ const championsData = [
   {
     id: "266",
     name: "Aatrox",
-    icon: "/champions/Aatrox.png",
+    icon: "/lol-guesser/champions/Aatrox.png",
     gender: "Male",
     positions: ["Top"],
     species: "Darkin",
@@ -14,7 +14,7 @@ const championsData = [
   {
     id: "103",
     name: "Ahri",
-    icon: "/champions/Ahri.png",
+    icon: "/lol-guesser/champions/Ahri.png",
     gender: "Female",
     positions: ["Mid"],
     species: "Vastayan",
@@ -26,7 +26,7 @@ const championsData = [
   {
     id: "84",
     name: "Akali",
-    icon: "/champions/Akali.png",
+    icon: "/lol-guesser/champions/Akali.png",
     gender: "Female",
     positions: ["Mid", "Top"],
     species: "Human",
@@ -38,7 +38,7 @@ const championsData = [
   {
     id: "166",
     name: "Akshan",
-    icon: "/champions/Akshan.png",
+    icon: "/lol-guesser/champions/Akshan.png",
     gender: "Male",
     positions: ["Mid", "Top"],
     species: "Human",
@@ -50,7 +50,7 @@ const championsData = [
   {
     id: "12",
     name: "Alistar",
-    icon: "/champions/Alistar.png",
+    icon: "/lol-guesser/champions/Alistar.png",
     gender: "Male",
     positions: ["Support"],
     species: "Minotaur",
@@ -62,7 +62,7 @@ const championsData = [
   {
     id: "32",
     name: "Amumu",
-    icon: "/champions/Amumu.png",
+    icon: "/lol-guesser/champions/Amumu.png",
     gender: "Male",
     positions: ["Jungle"],
     species: "Yordle",
@@ -74,7 +74,7 @@ const championsData = [
   {
     id: "1",
     name: "Annie",
-    icon: "/champions/Annie.png",
+    icon: "/lol-guesser/champions/Annie.png",
     gender: "Female",
     positions: ["Mid"],
     species: "Human",
@@ -86,7 +86,7 @@ const championsData = [
   {
     id: "34",
     name: "Anivia",
-    icon: "/champions/Anivia.png",
+    icon: "/lol-guesser/champions/Anivia.png",
     gender: "Female",
     positions: ["Mid"],
     species: "God-Warrior",
@@ -98,7 +98,7 @@ const championsData = [
   {
     id: "523",
     name: "Aphelios",
-    icon: "/champions/Aphelios.png",
+    icon: "/lol-guesser/champions/Aphelios.png",
     gender: "Male",
     positions: ["ADC"],
     species: "Human",
@@ -110,7 +110,7 @@ const championsData = [
   {
     id: "22",
     name: "Ashe",
-    icon: "/champions/Ashe.png",
+    icon: "/lol-guesser/champions/Ashe.png",
     gender: "Female",
     positions: ["ADC"],
     species: "Human",
@@ -122,7 +122,7 @@ const championsData = [
   {
     id: "136",
     name: "Aurelion Sol",
-    icon: "/champions/AurelionSol.png",
+    icon: "/lol-guesser/champions/AurelionSol.png",
     gender: "Male",
     positions: ["Mid"],
     species: "Celestial",
@@ -134,7 +134,7 @@ const championsData = [
   {
     id: "268",
     name: "Azir",
-    icon: "/champions/Azir.png",
+    icon: "/lol-guesser/champions/Azir.png",
     gender: "Male",
     positions: ["Mid"],
     species: "God-Warrior",
@@ -146,7 +146,7 @@ const championsData = [
   {
     id: "432",
     name: "Bard",
-    icon: "/champions/Bard.png",
+    icon: "/lol-guesser/champions/Bard.png",
     gender: "Male",
     positions: ["Support"],
     species: "Celestial",
@@ -158,7 +158,7 @@ const championsData = [
   {
     id: "200",
     name: "Bel'Veth",
-    icon: "/champions/BelVeth.png",
+    icon: "/lol-guesser/champions/BelVeth.png",
     gender: "Female",
     positions: ["Jungle"],
     species: "Void",
@@ -170,7 +170,7 @@ const championsData = [
   {
     id: "53",
     name: "Blitzcrank",
-    icon: "/champions/Blitzcrank.png",
+    icon: "/lol-guesser/champions/Blitzcrank.png",
     gender: "Other",
     positions: ["Support"],
     species: "Golem",
@@ -182,7 +182,7 @@ const championsData = [
   {
     id: "63",
     name: "Brand",
-    icon: "/champions/Brand.png",
+    icon: "/lol-guesser/champions/Brand.png",
     gender: "Male",
     positions: ["Support", "Mid"],
     species: "Human",
@@ -194,7 +194,7 @@ const championsData = [
   {
     id: "201",
     name: "Braum",
-    icon: "/champions/Braum.png",
+    icon: "/lol-guesser/champions/Braum.png",
     gender: "Male",
     positions: ["Support"],
     species: "Human",
@@ -206,7 +206,7 @@ const championsData = [
   {
     id: "51",
     name: "Caitlyn",
-    icon: "/champions/Caitlyn.png",
+    icon: "/lol-guesser/champions/Caitlyn.png",
     gender: "Female",
     positions: ["ADC"],
     species: "Human",
@@ -218,7 +218,7 @@ const championsData = [
   {
     id: "164",
     name: "Camille",
-    icon: "/champions/Camille.png",
+    icon: "/lol-guesser/champions/Camille.png",
     gender: "Female",
     positions: ["Top"],
     species: "Human",
@@ -230,7 +230,7 @@ const championsData = [
   {
     id: "69",
     name: "Cassiopeia",
-    icon: "/champions/Cassiopeia.png",
+    icon: "/lol-guesser/champions/Cassiopeia.png",
     gender: "Female",
     positions: ["Mid"],
     species: "Human",
@@ -242,7 +242,7 @@ const championsData = [
   {
     id: "31",
     name: "Cho'Gath",
-    icon: "/champions/ChoGath.png",
+    icon: "/lol-guesser/champions/ChoGath.png",
     gender: "Male",
     positions: ["Top"],
     species: "Void",
@@ -254,7 +254,7 @@ const championsData = [
   {
     id: "42",
     name: "Corki",
-    icon: "/champions/Corki.png",
+    icon: "/lol-guesser/champions/Corki.png",
     gender: "Male",
     positions: ["Mid"],
     species: "Yordle",
@@ -266,7 +266,7 @@ const championsData = [
   {
     id: "122",
     name: "Darius",
-    icon: "/champions/Darius.png",
+    icon: "/lol-guesser/champions/Darius.png",
     gender: "Male",
     positions: ["Top"],
     species: "Human",
@@ -278,7 +278,7 @@ const championsData = [
   {
     id: "131",
     name: "Diana",
-    icon: "/champions/Diana.png",
+    icon: "/lol-guesser/champions/Diana.png",
     gender: "Female",
     positions: ["Jungle", "Mid"],
     species: "Aspect",
@@ -290,7 +290,7 @@ const championsData = [
   {
     id: "119",
     name: "Draven",
-    icon: "/champions/Draven.png",
+    icon: "/lol-guesser/champions/Draven.png",
     gender: "Male",
     positions: ["ADC"],
     species: "Human",
@@ -302,7 +302,7 @@ const championsData = [
   {
     id: "36",
     name: "Dr. Mundo",
-    icon: "/champions/DrMundo.png",
+    icon: "/lol-guesser/champions/DrMundo.png",
     gender: "Male",
     positions: ["Top", "Jungle"],
     species: "Chemically Altered",
@@ -314,7 +314,7 @@ const championsData = [
   {
     id: "245",
     name: "Ekko",
-    icon: "/champions/Ekko.png",
+    icon: "/lol-guesser/champions/Ekko.png",
     gender: "Male",
     positions: ["Mid", "Jungle"],
     species: "Human",
@@ -326,7 +326,7 @@ const championsData = [
   {
     id: "60",
     name: "Elise",
-    icon: "/champions/Elise.png",
+    icon: "/lol-guesser/champions/Elise.png",
     gender: "Female",
     positions: ["Jungle"],
     species: "Human",
@@ -338,7 +338,7 @@ const championsData = [
   {
     id: "28",
     name: "Evelynn",
-    icon: "/champions/Evelynn.png",
+    icon: "/lol-guesser/champions/Evelynn.png",
     gender: "Female",
     positions: ["Jungle"],
     species: "Demon",
@@ -350,7 +350,7 @@ const championsData = [
   {
     id: "81",
     name: "Ezreal",
-    icon: "/champions/Ezreal.png",
+    icon: "/lol-guesser/champions/Ezreal.png",
     gender: "Male",
     positions: ["ADC"],
     species: "Human",
@@ -362,7 +362,7 @@ const championsData = [
   {
     id: "9",
     name: "Fiddlesticks",
-    icon: "/champions/Fiddlesticks.png",
+    icon: "/lol-guesser/champions/Fiddlesticks.png",
     gender: "Other",
     positions: ["Jungle"],
     species: "Demon",
@@ -374,7 +374,7 @@ const championsData = [
   {
     id: "114",
     name: "Fiora",
-    icon: "/champions/Fiora.png",
+    icon: "/lol-guesser/champions/Fiora.png",
     gender: "Female",
     positions: ["Top"],
     species: "Human",
@@ -386,7 +386,7 @@ const championsData = [
   {
     id: "105",
     name: "Fizz",
-    icon: "/champions/Fizz.png",
+    icon: "/lol-guesser/champions/Fizz.png",
     gender: "Male",
     positions: ["Mid"],
     species: "Yordle",
@@ -398,7 +398,7 @@ const championsData = [
   {
     id: "3",
     name: "Galio",
-    icon: "/champions/Galio.png",
+    icon: "/lol-guesser/champions/Galio.png",
     gender: "Male",
     positions: ["Mid", "Support"],
     species: "Golem",
@@ -410,7 +410,7 @@ const championsData = [
   {
     id: "41",
     name: "Gangplank",
-    icon: "/champions/Gangplank.png",
+    icon: "/lol-guesser/champions/Gangplank.png",
     gender: "Male",
     positions: ["Top"],
     species: "Human",
@@ -422,7 +422,7 @@ const championsData = [
   {
     id: "86",
     name: "Garen",
-    icon: "/champions/Garen.png",
+    icon: "/lol-guesser/champions/Garen.png",
     gender: "Male",
     positions: ["Top"],
     species: "Human",
@@ -434,7 +434,7 @@ const championsData = [
   {
     id: "150",
     name: "Gnar",
-    icon: "/champions/Gnar.png",
+    icon: "/lol-guesser/champions/Gnar.png",
     gender: "Male",
     positions: ["Top"],
     species: "Yordle",
@@ -446,7 +446,7 @@ const championsData = [
   {
     id: "79",
     name: "Gragas",
-    icon: "/champions/Gragas.png",
+    icon: "/lol-guesser/champions/Gragas.png",
     gender: "Male",
     positions: ["Jungle", "Top"],
     species: "Human",
@@ -458,7 +458,7 @@ const championsData = [
   {
     id: "104",
     name: "Graves",
-    icon: "/champions/Graves.png",
+    icon: "/lol-guesser/champions/Graves.png",
     gender: "Male",
     positions: ["Jungle"],
     species: "Human",
@@ -470,7 +470,7 @@ const championsData = [
   {
     id: "887",
     name: "Gwen",
-    icon: "/champions/Gwen.png",
+    icon: "/lol-guesser/champions/Gwen.png",
     gender: "Female",
     positions: ["Top"],
     species: "Human",
@@ -482,7 +482,7 @@ const championsData = [
   {
     id: "120",
     name: "Hecarim",
-    icon: "/champions/Hecarim.png",
+    icon: "/lol-guesser/champions/Hecarim.png",
     gender: "Male",
     positions: ["Jungle"],
     species: "Undead",
@@ -494,7 +494,7 @@ const championsData = [
   {
     id: "74",
     name: "Heimerdinger",
-    icon: "/champions/Heimerdinger.png",
+    icon: "/lol-guesser/champions/Heimerdinger.png",
     gender: "Male",
     positions: ["Mid", "Support"],
     species: "Yordle",
@@ -506,7 +506,7 @@ const championsData = [
   {
     id: "420",
     name: "Illaoi",
-    icon: "/champions/Illaoi.png",
+    icon: "/lol-guesser/champions/Illaoi.png",
     gender: "Female",
     positions: ["Top"],
     species: "Human",
@@ -518,7 +518,7 @@ const championsData = [
   {
     id: "39",
     name: "Irelia",
-    icon: "/champions/Irelia.png",
+    icon: "/lol-guesser/champions/Irelia.png",
     gender: "Female",
     positions: ["Top", "Mid"],
     species: "Human",
@@ -530,7 +530,7 @@ const championsData = [
   {
     id: "427",
     name: "Ivern",
-    icon: "/champions/Ivern.png",
+    icon: "/lol-guesser/champions/Ivern.png",
     gender: "Male",
     positions: ["Jungle"],
     species: "Human",
@@ -542,7 +542,7 @@ const championsData = [
   {
     id: "40",
     name: "Janna",
-    icon: "/champions/Janna.png",
+    icon: "/lol-guesser/champions/Janna.png",
     gender: "Female",
     positions: ["Support"],
     species: "God-Warrior",
@@ -554,7 +554,7 @@ const championsData = [
   {
     id: "59",
     name: "Jarvan IV",
-    icon: "/champions/JarvanIV.png",
+    icon: "/lol-guesser/champions/JarvanIV.png",
     gender: "Male",
     positions: ["Jungle"],
     species: "Human",
@@ -566,7 +566,7 @@ const championsData = [
   {
     id: "24",
     name: "Jax",
-    icon: "/champions/Jax.png",
+    icon: "/lol-guesser/champions/Jax.png",
     gender: "Male",
     positions: ["Top", "Jungle"],
     species: "Unknown",
@@ -578,7 +578,7 @@ const championsData = [
   {
     id: "126",
     name: "Jayce",
-    icon: "/champions/Jayce.png",
+    icon: "/lol-guesser/champions/Jayce.png",
     gender: "Male",
     positions: ["Top", "Mid"],
     species: "Human",
@@ -590,7 +590,7 @@ const championsData = [
   {
     id: "202",
     name: "Jhin",
-    icon: "/champions/Jhin.png",
+    icon: "/lol-guesser/champions/Jhin.png",
     gender: "Male",
     positions: ["ADC"],
     species: "Human",
@@ -602,7 +602,7 @@ const championsData = [
   {
     id: "222",
     name: "Jinx",
-    icon: "/champions/Jinx.png",
+    icon: "/lol-guesser/champions/Jinx.png",
     gender: "Female",
     positions: ["ADC"],
     species: "Human",
@@ -614,7 +614,7 @@ const championsData = [
   {
     id: "145",
     name: "Kai'Sa",
-    icon: "/champions/KaiSa.png",
+    icon: "/lol-guesser/champions/KaiSa.png",
     gender: "Female",
     positions: ["ADC"],
     species: "Human",
@@ -626,7 +626,7 @@ const championsData = [
   {
     id: "429",
     name: "Kalista",
-    icon: "/champions/Kalista.png",
+    icon: "/lol-guesser/champions/Kalista.png",
     gender: "Female",
     positions: ["ADC"],
     species: "Undead",
@@ -638,7 +638,7 @@ const championsData = [
   {
     id: "43",
     name: "Karma",
-    icon: "/champions/Karma.png",
+    icon: "/lol-guesser/champions/Karma.png",
     gender: "Female",
     positions: ["Support"],
     species: "Human",
@@ -650,7 +650,7 @@ const championsData = [
   {
     id: "30",
     name: "Karthus",
-    icon: "/champions/Karthus.png",
+    icon: "/lol-guesser/champions/Karthus.png",
     gender: "Male",
     positions: ["Jungle"],
     species: "Undead",
@@ -662,7 +662,7 @@ const championsData = [
   {
     id: "38",
     name: "Kassadin",
-    icon: "/champions/Kassadin.png",
+    icon: "/lol-guesser/champions/Kassadin.png",
     gender: "Male",
     positions: ["Mid"],
     species: "Human",
@@ -674,7 +674,7 @@ const championsData = [
   {
     id: "55",
     name: "Katarina",
-    icon: "/champions/Katarina.png",
+    icon: "/lol-guesser/champions/Katarina.png",
     gender: "Female",
     positions: ["Mid"],
     species: "Human",
@@ -686,7 +686,7 @@ const championsData = [
   {
     id: "10",
     name: "Kayle",
-    icon: "/champions/Kayle.png",
+    icon: "/lol-guesser/champions/Kayle.png",
     gender: "Female",
     positions: ["Top"],
     species: "Aspect",
@@ -698,7 +698,7 @@ const championsData = [
   {
     id: "141",
     name: "Kayn",
-    icon: "/champions/Kayn.png",
+    icon: "/lol-guesser/champions/Kayn.png",
     gender: "Male",
     positions: ["Jungle"],
     species: "Human",
@@ -710,7 +710,7 @@ const championsData = [
   {
     id: "85",
     name: "Kennen",
-    icon: "/champions/Kennen.png",
+    icon: "/lol-guesser/champions/Kennen.png",
     gender: "Male",
     positions: ["Top"],
     species: "Yordle",
@@ -722,7 +722,7 @@ const championsData = [
   {
     id: "121",
     name: "Kha'Zix",
-    icon: "/champions/KhaZix.png",
+    icon: "/lol-guesser/champions/KhaZix.png",
     gender: "Male",
     positions: ["Jungle"],
     species: "Void",
@@ -734,7 +734,7 @@ const championsData = [
   {
     id: "203",
     name: "Kindred",
-    icon: "/champions/Kindred.png",
+    icon: "/lol-guesser/champions/Kindred.png",
     gender: "Other",
     positions: ["Jungle"],
     species: "God",
@@ -746,7 +746,7 @@ const championsData = [
   {
     id: "240",
     name: "Kled",
-    icon: "/champions/Kled.png",
+    icon: "/lol-guesser/champions/Kled.png",
     gender: "Male",
     positions: ["Top"],
     species: "Yordle",
@@ -758,7 +758,7 @@ const championsData = [
   {
     id: "96",
     name: "Kog'Maw",
-    icon: "/champions/KogMaw.png",
+    icon: "/lol-guesser/champions/KogMaw.png",
     gender: "Male",
     positions: ["ADC"],
     species: "Void",
@@ -770,7 +770,7 @@ const championsData = [
   {
     id: "897",
     name: "K'Sante",
-    icon: "/champions/KSante.png",
+    icon: "/lol-guesser/champions/KSante.png",
     gender: "Male",
     positions: ["Top"],
     species: "Human",
@@ -782,7 +782,7 @@ const championsData = [
   {
     id: "7",
     name: "LeBlanc",
-    icon: "/champions/LeBlanc.png",
+    icon: "/lol-guesser/champions/LeBlanc.png",
     gender: "Female",
     positions: ["Mid"],
     species: "Human",
@@ -794,7 +794,7 @@ const championsData = [
   {
     id: "64",
     name: "Lee Sin",
-    icon: "/champions/Lee Sin.png",
+    icon: "/lol-guesser/champions/Lee Sin.png",
     gender: "Male",
     positions: ["Jungle"],
     species: "Human",
@@ -806,7 +806,7 @@ const championsData = [
   {
     id: "89",
     name: "Leona",
-    icon: "/champions/Leona.png",
+    icon: "/lol-guesser/champions/Leona.png",
     gender: "Female",
     positions: ["Support"],
     species: "Aspect",
@@ -818,7 +818,7 @@ const championsData = [
   {
     id: "876",
     name: "Lillia",
-    icon: "/champions/Lillia.png",
+    icon: "/lol-guesser/champions/Lillia.png",
     gender: "Female",
     positions: ["Jungle"],
     species: "Spirit",
@@ -830,7 +830,7 @@ const championsData = [
   {
     id: "127",
     name: "Lissandra",
-    icon: "/champions/Lissandra.png",
+    icon: "/lol-guesser/champions/Lissandra.png",
     gender: "Female",
     positions: ["Mid"],
     species: "Human",
@@ -842,7 +842,7 @@ const championsData = [
   {
     id: "236",
     name: "Lucian",
-    icon: "/champions/Lucian.png",
+    icon: "/lol-guesser/champions/Lucian.png",
     gender: "Male",
     positions: ["ADC"],
     species: "Human",
@@ -854,7 +854,7 @@ const championsData = [
   {
     id: "117",
     name: "Lulu",
-    icon: "/champions/Lulu.png",
+    icon: "/lol-guesser/champions/Lulu.png",
     gender: "Female",
     positions: ["Support"],
     species: "Yordle",
@@ -866,7 +866,7 @@ const championsData = [
   {
     id: "99",
     name: "Lux",
-    icon: "/champions/Lux.png",
+    icon: "/lol-guesser/champions/Lux.png",
     gender: "Female",
     positions: ["Mid", "Support"],
     species: "Human",
@@ -878,7 +878,7 @@ const championsData = [
   {
     id: "54",
     name: "Malphite",
-    icon: "/champions/Malphite.png",
+    icon: "/lol-guesser/champions/Malphite.png",
     gender: "Male",
     positions: ["Top"],
     species: "Golem",
@@ -890,7 +890,7 @@ const championsData = [
   {
     id: "90",
     name: "Malzahar",
-    icon: "/champions/Malzahar.png",
+    icon: "/lol-guesser/champions/Malzahar.png",
     gender: "Male",
     positions: ["Mid"],
     species: "Human",
@@ -902,7 +902,7 @@ const championsData = [
   {
     id: "57",
     name: "Maokai",
-    icon: "/champions/Maokai.png",
+    icon: "/lol-guesser/champions/Maokai.png",
     gender: "Male",
     positions: ["Support", "Jungle"],
     species: "Spirit",
@@ -914,7 +914,7 @@ const championsData = [
   {
     id: "11",
     name: "Master Yi",
-    icon: "/champions/MasterYi.png",
+    icon: "/lol-guesser/champions/MasterYi.png",
     gender: "Male",
     positions: ["Jungle"],
     species: "Human",
@@ -926,7 +926,7 @@ const championsData = [
   {
     id: "902",
     name: "Milio",
-    icon: "/champions/Milio.png",
+    icon: "/lol-guesser/champions/Milio.png",
     gender: "Male",
     positions: ["Support"],
     species: "Human",
@@ -938,7 +938,7 @@ const championsData = [
   {
     id: "21",
     name: "Miss Fortune",
-    icon: "/champions/MissFortune.png",
+    icon: "/lol-guesser/champions/MissFortune.png",
     gender: "Female",
     positions: ["ADC"],
     species: "Human",
@@ -950,7 +950,7 @@ const championsData = [
   {
     id: "62",
     name: "Wukong",
-    icon: "/champions/Wukong.png",
+    icon: "/lol-guesser/champions/Wukong.png",
     gender: "Male",
     positions: ["Top", "Jungle"],
     species: "Vastayan",
@@ -962,7 +962,7 @@ const championsData = [
   {
     id: "82",
     name: "Mordekaiser",
-    icon: "/champions/Mordekaiser.png",
+    icon: "/lol-guesser/champions/Mordekaiser.png",
     gender: "Male",
     positions: ["Top"],
     species: "Revenant",
@@ -974,7 +974,7 @@ const championsData = [
   {
     id: "25",
     name: "Morgana",
-    icon: "/champions/Morgana.png",
+    icon: "/lol-guesser/champions/Morgana.png",
     gender: "Female",
     positions: ["Support"],
     species: "Aspect",
@@ -986,7 +986,7 @@ const championsData = [
   {
     id: "267",
     name: "Nami",
-    icon: "/champions/Nami.png",
+    icon: "/lol-guesser/champions/Nami.png",
     gender: "Female",
     positions: ["Support"],
     species: "Vastayan",
@@ -998,7 +998,7 @@ const championsData = [
   {
     id: "75",
     name: "Nasus",
-    icon: "/champions/Nasus.png",
+    icon: "/lol-guesser/champions/Nasus.png",
     gender: "Male",
     positions: ["Top"],
     species: "God-Warrior",
@@ -1010,7 +1010,7 @@ const championsData = [
   {
     id: "111",
     name: "Nautilus",
-    icon: "/champions/Nautilus.png",
+    icon: "/lol-guesser/champions/Nautilus.png",
     gender: "Male",
     positions: ["Support"],
     species: "Revenant",
@@ -1022,7 +1022,7 @@ const championsData = [
   {
     id: "518",
     name: "Neeko",
-    icon: "/champions/Neeko.png",
+    icon: "/lol-guesser/champions/Neeko.png",
     gender: "Female",
     positions: ["Mid", "Support"],
     species: "Vastayan",
@@ -1034,7 +1034,7 @@ const championsData = [
   {
     id: "76",
     name: "Nidalee",
-    icon: "/champions/Nidalee.png",
+    icon: "/lol-guesser/champions/Nidalee.png",
     gender: "Female",
     positions: ["Jungle"],
     species: "Human",
@@ -1046,7 +1046,7 @@ const championsData = [
   {
     id: "895",
     name: "Nilah",
-    icon: "/champions/Nilah.png",
+    icon: "/lol-guesser/champions/Nilah.png",
     gender: "Female",
     positions: ["ADC"],
     species: "Human",
@@ -1058,7 +1058,7 @@ const championsData = [
   {
     id: "56",
     name: "Nocturne",
-    icon: "/champions/Nocturne.png",
+    icon: "/lol-guesser/champions/Nocturne.png",
     gender: "Male",
     positions: ["Jungle"],
     species: "Demon",
@@ -1070,7 +1070,7 @@ const championsData = [
   {
     id: "20",
     name: "Nunu & Willump",
-    icon: "/champions/Nunu.png",
+    icon: "/lol-guesser/champions/Nunu.png",
     gender: "Male",
     positions: ["Jungle"],
     species: "Human",
@@ -1082,7 +1082,7 @@ const championsData = [
   {
     id: "2",
     name: "Olaf",
-    icon: "/champions/Olaf.png",
+    icon: "/lol-guesser/champions/Olaf.png",
     gender: "Male",
     positions: ["Top", "Jungle"],
     species: "Human",
@@ -1094,7 +1094,7 @@ const championsData = [
   {
     id: "61",
     name: "Orianna",
-    icon: "/champions/Orianna.png",
+    icon: "/lol-guesser/champions/Orianna.png",
     gender: "Female",
     positions: ["Mid"],
     species: "Golem",
@@ -1106,7 +1106,7 @@ const championsData = [
   {
     id: "516",
     name: "Ornn",
-    icon: "/champions/Ornn.png",
+    icon: "/lol-guesser/champions/Ornn.png",
     gender: "Male",
     positions: ["Top"],
     species: "God",
@@ -1118,7 +1118,7 @@ const championsData = [
   {
     id: "80",
     name: "Pantheon",
-    icon: "/champions/Pantheon.png",
+    icon: "/lol-guesser/champions/Pantheon.png",
     gender: "Male",
     positions: ["Top", "Mid", "Support"],
     species: "Aspect",
@@ -1130,7 +1130,7 @@ const championsData = [
   {
     id: "78",
     name: "Poppy",
-    icon: "/champions/Poppy.png",
+    icon: "/lol-guesser/champions/Poppy.png",
     gender: "Female",
     positions: ["Top", "Jungle"],
     species: "Yordle",
@@ -1142,7 +1142,7 @@ const championsData = [
   {
     id: "555",
     name: "Pyke",
-    icon: "/champions/Pyke.png",
+    icon: "/lol-guesser/champions/Pyke.png",
     gender: "Male",
     positions: ["Support"],
     species: "Revenant",
@@ -1154,7 +1154,7 @@ const championsData = [
   {
     id: "246",
     name: "Qiyana",
-    icon: "/champions/Qiyana.png",
+    icon: "/lol-guesser/champions/Qiyana.png",
     gender: "Female",
     positions: ["Mid"],
     species: "Human",
@@ -1166,7 +1166,7 @@ const championsData = [
   {
     id: "133",
     name: "Quinn",
-    icon: "/champions/Quinn.png",
+    icon: "/lol-guesser/champions/Quinn.png",
     gender: "Female",
     positions: ["Top"],
     species: "Human",
@@ -1178,7 +1178,7 @@ const championsData = [
   {
     id: "497",
     name: "Rakan",
-    icon: "/champions/Rakan.png",
+    icon: "/lol-guesser/champions/Rakan.png",
     gender: "Male",
     positions: ["Support"],
     species: "Vastayan",
@@ -1190,7 +1190,7 @@ const championsData = [
   {
     id: "33",
     name: "Rammus",
-    icon: "/champions/Rammus.png",
+    icon: "/lol-guesser/champions/Rammus.png",
     gender: "Male",
     positions: ["Jungle"],
     species: "God-Warrior",
@@ -1202,7 +1202,7 @@ const championsData = [
   {
     id: "421",
     name: "Rek'Sai",
-    icon: "/champions/RekSai.png",
+    icon: "/lol-guesser/champions/RekSai.png",
     gender: "Female",
     positions: ["Jungle"],
     species: "Void",
@@ -1214,7 +1214,7 @@ const championsData = [
   {
     id: "526",
     name: "Rell",
-    icon: "/champions/Rell.png",
+    icon: "/lol-guesser/champions/Rell.png",
     gender: "Female",
     positions: ["Support"],
     species: "Human",
@@ -1226,7 +1226,7 @@ const championsData = [
   {
     id: "888",
     name: "Renata Glasc",
-    icon: "/champions/Renata.png",
+    icon: "/lol-guesser/champions/Renata.png",
     gender: "Female",
     positions: ["Support"],
     species: "Human",
@@ -1238,7 +1238,7 @@ const championsData = [
   {
     id: "58",
     name: "Renekton",
-    icon: "/champions/Renekton.png",
+    icon: "/lol-guesser/champions/Renekton.png",
     gender: "Male",
     positions: ["Top"],
     species: "God-Warrior",
@@ -1250,7 +1250,7 @@ const championsData = [
   {
     id: "107",
     name: "Rengar",
-    icon: "/champions/Rengar.png",
+    icon: "/lol-guesser/champions/Rengar.png",
     gender: "Male",
     positions: ["Jungle", "Top"],
     species: "Vastayan",
@@ -1262,7 +1262,7 @@ const championsData = [
   {
     id: "92",
     name: "Riven",
-    icon: "/champions/Riven.png",
+    icon: "/lol-guesser/champions/Riven.png",
     gender: "Female",
     positions: ["Top"],
     species: "Human",
@@ -1274,7 +1274,7 @@ const championsData = [
   {
     id: "68",
     name: "Rumble",
-    icon: "/champions/Rumble.png",
+    icon: "/lol-guesser/champions/Rumble.png",
     gender: "Male",
     positions: ["Top", "Mid"],
     species: "Yordle",
@@ -1286,7 +1286,7 @@ const championsData = [
   {
     id: "13",
     name: "Ryze",
-    icon: "/champions/Ryze.png",
+    icon: "/lol-guesser/champions/Ryze.png",
     gender: "Male",
     positions: ["Mid", "Top"],
     species: "Human",
@@ -1298,7 +1298,7 @@ const championsData = [
   {
     id: "360",
     name: "Samira",
-    icon: "/champions/Samira.png",
+    icon: "/lol-guesser/champions/Samira.png",
     gender: "Female",
     positions: ["ADC"],
     species: "Human",
@@ -1310,7 +1310,7 @@ const championsData = [
   {
     id: "113",
     name: "Sejuani",
-    icon: "/champions/Sejuani.png",
+    icon: "/lol-guesser/champions/Sejuani.png",
     gender: "Female",
     positions: ["Jungle"],
     species: "Human",
@@ -1322,7 +1322,7 @@ const championsData = [
   {
     id: "235",
     name: "Senna",
-    icon: "/champions/Senna.png",
+    icon: "/lol-guesser/champions/Senna.png",
     gender: "Female",
     positions: ["Support", "ADC"],
     species: "Human",
@@ -1334,7 +1334,7 @@ const championsData = [
   {
     id: "147",
     name: "Seraphine",
-    icon: "/champions/Seraphine.png",
+    icon: "/lol-guesser/champions/Seraphine.png",
     gender: "Female",
     positions: ["Support", "Mid"],
     species: "Human",
@@ -1346,7 +1346,7 @@ const championsData = [
   {
     id: "875",
     name: "Sett",
-    icon: "/champions/Sett.png",
+    icon: "/lol-guesser/champions/Sett.png",
     gender: "Male",
     positions: ["Top"],
     species: "Vastayan",
@@ -1358,7 +1358,7 @@ const championsData = [
   {
     id: "35",
     name: "Shaco",
-    icon: "/champions/Shaco.png",
+    icon: "/lol-guesser/champions/Shaco.png",
     gender: "Male",
     positions: ["Jungle"],
     species: "Spirit",
@@ -1370,7 +1370,7 @@ const championsData = [
   {
     id: "98",
     name: "Shen",
-    icon: "/champions/Shen.png",
+    icon: "/lol-guesser/champions/Shen.png",
     gender: "Male",
     positions: ["Top"],
     species: "Human",
@@ -1382,7 +1382,7 @@ const championsData = [
   {
     id: "102",
     name: "Shyvana",
-    icon: "/champions/Shyvana.png",
+    icon: "/lol-guesser/champions/Shyvana.png",
     gender: "Female",
     positions: ["Jungle"],
     species: "Dragon",
@@ -1394,7 +1394,7 @@ const championsData = [
   {
     id: "27",
     name: "Singed",
-    icon: "/champions/Singed.png",
+    icon: "/lol-guesser/champions/Singed.png",
     gender: "Male",
     positions: ["Top"],
     species: "Human",
@@ -1406,7 +1406,7 @@ const championsData = [
   {
     id: "14",
     name: "Sion",
-    icon: "/champions/Sion.png",
+    icon: "/lol-guesser/champions/Sion.png",
     gender: "Male",
     positions: ["Top"],
     species: "Revenant",
@@ -1418,7 +1418,7 @@ const championsData = [
   {
     id: "15",
     name: "Sivir",
-    icon: "/champions/Sivir.png",
+    icon: "/lol-guesser/champions/Sivir.png",
     gender: "Female",
     positions: ["ADC"],
     species: "Human",
@@ -1430,7 +1430,7 @@ const championsData = [
   {
     id: "72",
     name: "Skarner",
-    icon: "/champions/Skarner.png",
+    icon: "/lol-guesser/champions/Skarner.png",
     gender: "Male",
     positions: ["Jungle"],
     species: "Brackern",
@@ -1442,7 +1442,7 @@ const championsData = [
   {
     id: "37",
     name: "Sona",
-    icon: "/champions/Sona.png",
+    icon: "/lol-guesser/champions/Sona.png",
     gender: "Female",
     positions: ["Support"],
     species: "Human",
@@ -1454,7 +1454,7 @@ const championsData = [
   {
     id: "16",
     name: "Soraka",
-    icon: "/champions/Soraka.png",
+    icon: "/lol-guesser/champions/Soraka.png",
     gender: "Female",
     positions: ["Support"],
     species: "Celestial",
@@ -1466,7 +1466,7 @@ const championsData = [
   {
     id: "50",
     name: "Swain",
-    icon: "/champions/Swain.png",
+    icon: "/lol-guesser/champions/Swain.png",
     gender: "Male",
     positions: ["Mid", "Support"],
     species: "Human",
@@ -1478,7 +1478,7 @@ const championsData = [
   {
     id: "517",
     name: "Sylas",
-    icon: "/champions/Sylas.png",
+    icon: "/lol-guesser/champions/Sylas.png",
     gender: "Male",
     positions: ["Mid"],
     species: "Human",
@@ -1490,7 +1490,7 @@ const championsData = [
   {
     id: "134",
     name: "Syndra",
-    icon: "/champions/Syndra.png",
+    icon: "/lol-guesser/champions/Syndra.png",
     gender: "Female",
     positions: ["Mid"],
     species: "Human",
@@ -1502,7 +1502,7 @@ const championsData = [
   {
     id: "223",
     name: "Tahm Kench",
-    icon: "/champions/TahmKench.png",
+    icon: "/lol-guesser/champions/TahmKench.png",
     gender: "Male",
     positions: ["Support", "Top"],
     species: "Demon",
@@ -1514,7 +1514,7 @@ const championsData = [
   {
     id: "163",
     name: "Taliyah",
-    icon: "/champions/Taliyah.png",
+    icon: "/lol-guesser/champions/Taliyah.png",
     gender: "Female",
     positions: ["Mid", "Jungle"],
     species: "Human",
@@ -1526,7 +1526,7 @@ const championsData = [
   {
     id: "91",
     name: "Talon",
-    icon: "/champions/Talon.png",
+    icon: "/lol-guesser/champions/Talon.png",
     gender: "Male",
     positions: ["Mid"],
     species: "Human",
@@ -1538,7 +1538,7 @@ const championsData = [
   {
     id: "44",
     name: "Taric",
-    icon: "/champions/Taric.png",
+    icon: "/lol-guesser/champions/Taric.png",
     gender: "Male",
     positions: ["Support"],
     species: "Aspect",
@@ -1550,7 +1550,7 @@ const championsData = [
   {
     id: "17",
     name: "Teemo",
-    icon: "/champions/Teemo.png",
+    icon: "/lol-guesser/champions/Teemo.png",
     gender: "Male",
     positions: ["Top"],
     species: "Yordle",
@@ -1562,7 +1562,7 @@ const championsData = [
   {
     id: "412",
     name: "Thresh",
-    icon: "/champions/Thresh.png",
+    icon: "/lol-guesser/champions/Thresh.png",
     gender: "Male",
     positions: ["Support"],
     species: "Undead",
@@ -1574,7 +1574,7 @@ const championsData = [
   {
     id: "18",
     name: "Tristana",
-    icon: "/champions/Tristana.png",
+    icon: "/lol-guesser/champions/Tristana.png",
     gender: "Female",
     positions: ["ADC"],
     species: "Yordle",
@@ -1586,7 +1586,7 @@ const championsData = [
   {
     id: "48",
     name: "Trundle",
-    icon: "/champions/Trundle.png",
+    icon: "/lol-guesser/champions/Trundle.png",
     gender: "Male",
     positions: ["Jungle", "Top"],
     species: "Troll",
@@ -1598,7 +1598,7 @@ const championsData = [
   {
     id: "23",
     name: "Tryndamere",
-    icon: "/champions/Tryndamere.png",
+    icon: "/lol-guesser/champions/Tryndamere.png",
     gender: "Male",
     positions: ["Top"],
     species: "Human",
@@ -1610,7 +1610,7 @@ const championsData = [
   {
     id: "4",
     name: "Twisted Fate",
-    icon: "/champions/TwistedFate.png",
+    icon: "/lol-guesser/champions/TwistedFate.png",
     gender: "Male",
     positions: ["Mid"],
     species: "Human",
@@ -1622,7 +1622,7 @@ const championsData = [
   {
     id: "29",
     name: "Twitch",
-    icon: "/champions/Twitch.png",
+    icon: "/lol-guesser/champions/Twitch.png",
     gender: "Male",
     positions: ["ADC"],
     species: "Chemically Altered",
@@ -1634,7 +1634,7 @@ const championsData = [
   {
     id: "77",
     name: "Udyr",
-    icon: "/champions/Udyr.png",
+    icon: "/lol-guesser/champions/Udyr.png",
     gender: "Male",
     positions: ["Jungle"],
     species: "Human",
@@ -1646,7 +1646,7 @@ const championsData = [
   {
     id: "6",
     name: "Urgot",
-    icon: "/champions/Urgot.png",
+    icon: "/lol-guesser/champions/Urgot.png",
     gender: "Male",
     positions: ["Top"],
     species: "Chemically Altered",
@@ -1658,7 +1658,7 @@ const championsData = [
   {
     id: "110",
     name: "Varus",
-    icon: "/champions/Varus.png",
+    icon: "/lol-guesser/champions/Varus.png",
     gender: "Male",
     positions: ["ADC", "Mid"],
     species: "Darkin",
@@ -1670,7 +1670,7 @@ const championsData = [
   {
     id: "67",
     name: "Vayne",
-    icon: "/champions/Vayne.png",
+    icon: "/lol-guesser/champions/Vayne.png",
     gender: "Female",
     positions: ["ADC", "Top"],
     species: "Human",
@@ -1682,7 +1682,7 @@ const championsData = [
   {
     id: "45",
     name: "Veigar",
-    icon: "/champions/Veigar.png",
+    icon: "/lol-guesser/champions/Veigar.png",
     gender: "Male",
     positions: ["Mid"],
     species: "Yordle",
@@ -1694,7 +1694,7 @@ const championsData = [
   {
     id: "161",
     name: "Vel'Koz",
-    icon: "/champions/VelKoz.png",
+    icon: "/lol-guesser/champions/VelKoz.png",
     gender: "Male",
     positions: ["Mid", "Support"],
     species: "Void",
@@ -1706,7 +1706,7 @@ const championsData = [
   {
     id: "711",
     name: "Vex",
-    icon: "/champions/Vex.png",
+    icon: "/lol-guesser/champions/Vex.png",
     gender: "Female",
     positions: ["Mid"],
     species: "Yordle",
@@ -1718,7 +1718,7 @@ const championsData = [
   {
     id: "254",
     name: "Vi",
-    icon: "/champions/Vi.png",
+    icon: "/lol-guesser/champions/Vi.png",
     gender: "Female",
     positions: ["Jungle"],
     species: "Human",
@@ -1730,7 +1730,7 @@ const championsData = [
   {
     id: "234",
     name: "Viego",
-    icon: "/champions/Viego.png",
+    icon: "/lol-guesser/champions/Viego.png",
     gender: "Male",
     positions: ["Jungle"],
     species: "Undead",
@@ -1742,7 +1742,7 @@ const championsData = [
   {
     id: "112",
     name: "Viktor",
-    icon: "/champions/Viktor.png",
+    icon: "/lol-guesser/champions/Viktor.png",
     gender: "Male",
     positions: ["Mid"],
     species: "Human",
@@ -1754,7 +1754,7 @@ const championsData = [
   {
     id: "8",
     name: "Vladimir",
-    icon: "/champions/Vladimir.png",
+    icon: "/lol-guesser/champions/Vladimir.png",
     gender: "Male",
     positions: ["Mid", "Top"],
     species: "Human",
@@ -1766,7 +1766,7 @@ const championsData = [
   {
     id: "106",
     name: "Volibear",
-    icon: "/champions/Volibear.png",
+    icon: "/lol-guesser/champions/Volibear.png",
     gender: "Male",
     positions: ["Top", "Jungle"],
     species: "God",
@@ -1778,7 +1778,7 @@ const championsData = [
   {
     id: "19",
     name: "Warwick",
-    icon: "/champions/Warwick.png",
+    icon: "/lol-guesser/champions/Warwick.png",
     gender: "Male",
     positions: ["Jungle"],
     species: "Chemically Altered",
@@ -1790,7 +1790,7 @@ const championsData = [
   {
     id: "498",
     name: "Xayah",
-    icon: "/champions/Xayah.png",
+    icon: "/lol-guesser/champions/Xayah.png",
     gender: "Female",
     positions: ["ADC"],
     species: "Vastayan",
@@ -1802,7 +1802,7 @@ const championsData = [
   {
     id: "101",
     name: "Xerath",
-    icon: "/champions/Xerath.png",
+    icon: "/lol-guesser/champions/Xerath.png",
     gender: "Male",
     positions: ["Mid", "Support"],
     species: "God-Warrior",
@@ -1814,7 +1814,7 @@ const championsData = [
   {
     id: "5",
     name: "Xin Zhao",
-    icon: "/champions/XinZhao.png",
+    icon: "/lol-guesser/champions/XinZhao.png",
     gender: "Male",
     positions: ["Jungle"],
     species: "Human",
@@ -1826,7 +1826,7 @@ const championsData = [
   {
     id: "157",
     name: "Yasuo",
-    icon: "/champions/Yasuo.png",
+    icon: "/lol-guesser/champions/Yasuo.png",
     gender: "Male",
     positions: ["Mid", "Top"],
     species: "Human",
@@ -1838,7 +1838,7 @@ const championsData = [
   {
     id: "777",
     name: "Yone",
-    icon: "/champions/Yone.png",
+    icon: "/lol-guesser/champions/Yone.png",
     gender: "Male",
     positions: ["Mid", "Top"],
     species: "Human",
@@ -1850,7 +1850,7 @@ const championsData = [
   {
     id: "83",
     name: "Yorick",
-    icon: "/champions/Yorick.png",
+    icon: "/lol-guesser/champions/Yorick.png",
     gender: "Male",
     positions: ["Top"],
     species: "Human",
@@ -1862,7 +1862,7 @@ const championsData = [
   {
     id: "350",
     name: "Yuumi",
-    icon: "/champions/Yuumi.png",
+    icon: "/lol-guesser/champions/Yuumi.png",
     gender: "Female",
     positions: ["Support"],
     species: "Magical Cat",
@@ -1874,7 +1874,7 @@ const championsData = [
   {
     id: "154",
     name: "Zac",
-    icon: "/champions/Zac.png",
+    icon: "/lol-guesser/champions/Zac.png",
     gender: "Male",
     positions: ["Jungle"],
     species: "Golem",
@@ -1886,7 +1886,7 @@ const championsData = [
   {
     id: "238",
     name: "Zed",
-    icon: "/champions/Zed.png",
+    icon: "/lol-guesser/champions/Zed.png",
     gender: "Male",
     positions: ["Mid"],
     species: "Human",
@@ -1898,7 +1898,7 @@ const championsData = [
   {
     id: "221",
     name: "Zeri",
-    icon: "/champions/Zeri.png",
+    icon: "/lol-guesser/champions/Zeri.png",
     gender: "Female",
     positions: ["ADC"],
     species: "Human",
@@ -1910,7 +1910,7 @@ const championsData = [
   {
     id: "115",
     name: "Ziggs",
-    icon: "/champions/Ziggs.png",
+    icon: "/lol-guesser/champions/Ziggs.png",
     gender: "Male",
     positions: ["Mid"],
     species: "Yordle",
@@ -1922,7 +1922,7 @@ const championsData = [
   {
     id: "26",
     name: "Zilean",
-    icon: "/champions/Zilean.png",
+    icon: "/lol-guesser/champions/Zilean.png",
     gender: "Male",
     positions: ["Support"],
     species: "Human",
@@ -1934,7 +1934,7 @@ const championsData = [
   {
     id: "142",
     name: "Zoe",
-    icon: "/champions/Zoe.png",
+    icon: "/lol-guesser/champions/Zoe.png",
     gender: "Female",
     positions: ["Mid"],
     species: "Aspect",
@@ -1946,7 +1946,7 @@ const championsData = [
   {
     id: "143",
     name: "Zyra",
-    icon: "/champions/Zyra.png",
+    icon: "/lol-guesser/champions/Zyra.png",
     gender: "Female",
     positions: ["Support"],
     species: "Plant",
