@@ -8,8 +8,13 @@ const props = defineProps<{
 }>();
 
 const getAttributeClass = (attribute: string) => {
-  const guessValue = props.guess.champion[attribute];
-  const targetValue = props.targetChampion[attribute];
+  // Use type assertion to tell TypeScript this is a valid key
+  const guessValue = props.guess.champion[attribute as keyof Champion];
+
+  // Check if targetChampion exists before accessing it
+  if (!props.targetChampion) return 'bg-gray-600 text-white';
+
+  const targetValue = props.targetChampion[attribute as keyof Champion];
 
   // Handle array values (positions, regions, rangeType)
   if (Array.isArray(guessValue) && Array.isArray(targetValue)) {
@@ -30,14 +35,14 @@ const getAttributeClass = (attribute: string) => {
       return 'bg-green-600 text-white';
     }
     return guessValue > targetValue
-      ? 'bg-blue-600 text-white after:content-["▼"] after:ml-1 after:text-lg'
-      : 'bg-purple-600 text-white after:content-["▲"] after:ml-1 after:text-lg';
+        ? 'bg-blue-600 text-white after:content-["▼"] after:ml-1 after:text-lg'
+        : 'bg-purple-600 text-white after:content-["▲"] after:ml-1 after:text-lg';
   }
 
   // Handle simple string values
   return guessValue === targetValue
-    ? 'bg-green-600 text-white'
-    : 'bg-red-600 text-white';
+      ? 'bg-green-600 text-white'
+      : 'bg-red-600 text-white';
 };
 </script>
 
@@ -45,33 +50,27 @@ const getAttributeClass = (attribute: string) => {
   <div class="flex gap-4 items-center p-4 bg-gray-800 rounded-lg">
     <div class="w-16 h-16 flex-shrink-0">
       <img
-        :src="guess.champion.icon"
-        :alt="guess.champion.name"
-        class="w-full h-full object-cover rounded-lg"
+          :src="guess.champion.icon"
+          :alt="guess.champion.name"
+          class="w-full h-full object-cover rounded-lg"
       />
     </div>
     <div class="flex-1 grid grid-cols-7 gap-2">
       <div
-        v-for="attribute in attributes"
-        :key="attribute"
-        class="p-2 rounded-md text-sm flex items-center justify-center min-h-[48px] text-center"
-        :class="getAttributeClass(attribute)"
+          v-for="attribute in attributes"
+          :key="attribute"
+          class="p-2 rounded-md text-sm flex items-center justify-center min-h-[48px] text-center"
+          :class="getAttributeClass(attribute)"
       >
         <div class="w-full">
-          <template v-if="Array.isArray(guess.champion[attribute])">
-            {{ guess.champion[attribute].join(', ') }}
+          <template v-if="Array.isArray(guess.champion[attribute as keyof Champion])">
+            {{ (guess.champion[attribute as keyof Champion] as any[]).join(', ') }}
           </template>
           <template v-else>
-            {{ guess.champion[attribute] }}
+            {{ guess.champion[attribute as keyof Champion] }}
           </template>
         </div>
       </div>
     </div>
   </div>
 </template>
-
-<style scoped>
-.grid-cols-7 {
-  grid-template-columns: repeat(7, minmax(0, 1fr));
-}
-</style>
