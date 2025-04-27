@@ -15,7 +15,7 @@ const startGame = (mode: string) => {
   <div class="home-page min-h-screen flex flex-col">
     <header class="py-6 px-4">
       <h1 class="text-4xl font-bold text-center">
-        <span class="text-blue-400">HRAT</span><span class="text-yellow-400"> DPČ</span>
+        <span class="text-blue-400">LOL</span><span class="text-yellow-400"> GUESSER</span>
       </h1>
       <p class="text-gray-400 text-center mt-2">
         A League of Legends champion guessing game
@@ -42,7 +42,7 @@ const startGame = (mode: string) => {
     </main>
 
     <footer class="py-6 px-4 text-center text-gray-500 text-sm">
-      <p>Hrat dpč, co se děje??</p>
+      <p>Why did i run out of tokens so early lmao?</p>
     </footer>
   </div>
 </template>
