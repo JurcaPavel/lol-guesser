@@ -29,7 +29,17 @@ const emptyRows = computed(() => {
       </div>
 
       <ChampionSelector :disabled="gameStore.gameOver" class="mb-8" />
+      <div class="grid grid-cols-8 gap-2 text-xs text-gray-400 font-medium mb-4 px-2">
+        <div>Champion</div>
+        <div>Gender</div>
+        <div>Position(s)</div>
+        <div>Race</div>
+        <div>Resource</div>
+        <div>Attack type</div>
+        <div>Region</div>
+        <div>Release year</div>
 
+      </div>
       <div class="space-y-3">
         <GuessRow
           v-for="(guess, index) in gameStore.guesses"
