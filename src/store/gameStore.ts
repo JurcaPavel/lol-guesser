@@ -7,7 +7,7 @@ export const useGameStore = defineStore('game', () => {
   // Game state
   const gameMode = ref('classic');
   const guesses = ref<ChampionGuess[]>([]);
-  const targetChampion = ref<Champion>();
+  const targetChampion = ref<Champion>(championsData[Math.floor(Math.random() * championsData.length)]);
   const gameOver = ref(false);
   const maxGuesses = ref(8);
 
